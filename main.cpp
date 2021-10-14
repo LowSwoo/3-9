@@ -21,6 +21,8 @@ const tableString table[9] = {
     {'8', "22"}
 };
 
+xyu
+
 int main(){
     char ch[LEN];
     for (int i = 0; i <= LEN; i++){
