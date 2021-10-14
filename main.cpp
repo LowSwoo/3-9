@@ -52,14 +52,14 @@ int main()
         }
         ch[0] = '0';
     }
-    cout << endl;
-    for (int i = 0; i <= LEN; i++)
-    {
-        if (ch[i])
-        {
-            cout << i << ": " << ch[i] << endl;
-        }
-    }
+    // cout << endl;
+    // for (int i = 0; i <= LEN; i++)
+    // {
+    //     if (ch[i])
+    //     {
+    //         cout << i << ": " << ch[i] << endl;
+    //     }
+    // }
     count_1 = 0;
     for (int i = 0; i <= count; i+=2) {
         tmp[0] = ch[i];
